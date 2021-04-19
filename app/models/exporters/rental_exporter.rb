@@ -8,7 +8,7 @@ module Exporters
       set_headers [
         'Updated At', 'Outlet', 'Outlet Name',
         'Rental ID', 'Sub category', 'Rental Type',
-        'Available', 'Inline', 'Png', 'Void',
+        'Available', 'Void', 'Inline', 'Png',
         'OSA (Checker) Code'
       ]
 

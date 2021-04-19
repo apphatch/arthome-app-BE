@@ -2,21 +2,25 @@
     "Available": {
         "type": "radio",
         "values": ["Y","N"],
-        "required": true
+        "required": true,
+        "default": "Y"
     },
     "Void": {
         "type": "radio",
         "values": ["Y","N"],
-        "required": true
+        "required": true,
+        "default": "Y"
     },
     "Inline": {
         "type": "radio",
         "values": ["Y","N"],
-        "required": true
+        "required": true,
+        "default": "Y"
     },
     "Png": {
         "type": "radio",
         "values": ["Y","N"],
-        "required": true
+        "required": true,
+        "default": "Y"
     }
 }
