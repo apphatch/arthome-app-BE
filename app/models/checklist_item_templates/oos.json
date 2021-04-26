@@ -2,14 +2,14 @@
     "Available": {
         "type": "number",
         "values": [],
-        "default_value_use": "quantity",
+        "default": { "field": "quantity" },
         "required": true,
         "allow_negative": false
     },
     "Void": {
         "type": "radio",
         "values": ["Y","N"],
-        "default": "Y",
+        "default": { "value": "Y" },
         "required": true
     },
     "Note": {

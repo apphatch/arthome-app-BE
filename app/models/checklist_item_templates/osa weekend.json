@@ -1,12 +1,7 @@
 {
     "Result": {
         "type": "radio",
-        "values": [
-            "OOS",
-            "A",
-            "B",
-            "C"
-        ],
+        "values": [ "OOS", "A", "B", "C" ],
         "required": true
     }
 }
