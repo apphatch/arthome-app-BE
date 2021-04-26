@@ -9,6 +9,7 @@
     "Void": {
         "type": "radio",
         "values": ["Y","N"],
+        "default": "Y",
         "required": true
     },
     "Note": {
